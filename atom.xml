@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[freemso's blog]]></title>
+  <subtitle><![CDATA[Building...]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://freemso.com/"/>
+  <updated>2015-02-21T10:25:10.453Z</updated>
+  <id>http://freemso.com/</id>
+  
+  <author>
+    <name><![CDATA[freemso]]></name>
+    <email><![CDATA[freemso@hotmail.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+</feed>
