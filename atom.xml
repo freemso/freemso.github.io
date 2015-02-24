@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[freemso's blog]]></title>
-  <subtitle><![CDATA[Building...]]></subtitle>
+  <subtitle><![CDATA[搭建中。。。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://freemso.com/"/>
-  <updated>2015-02-24T15:24:41.455Z</updated>
+  <updated>2015-02-24T15:43:55.151Z</updated>
   <id>http://freemso.com/</id>
   
   <author>
@@ -15,15 +15,15 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Test]]></title>
+    <title><![CDATA[测试]]></title>
     <link href="http://freemso.com/2015/02/24/Test/"/>
     <id>http://freemso.com/2015/02/24/Test/</id>
     <published>2015-02-24T14:10:27.000Z</published>
-    <updated>2015-02-24T14:11:40.767Z</updated>
-    <content type="html"><![CDATA[<p>This is a test blog.</p>
+    <updated>2015-02-24T15:35:00.263Z</updated>
+    <content type="html"><![CDATA[<p>这是一个用来测试的博客。</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>This is a test blog.</p>
+    <![CDATA[<p>这是一个用来测试的博客。</p>
 ]]>
     </summary>
     
