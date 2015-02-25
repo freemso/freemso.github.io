@@ -4,7 +4,7 @@
   <subtitle><![CDATA[搭建中。。。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://freemso.com/"/>
-  <updated>2015-02-25T08:56:59.362Z</updated>
+  <updated>2015-02-25T13:15:08.921Z</updated>
   <id>http://freemso.com/</id>
   
   <author>
@@ -13,6 +13,36 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[test_photo]]></title>
+    <link href="http://freemso.com/2015/02/25/test-photo/"/>
+    <id>http://freemso.com/2015/02/25/test-photo/</id>
+    <published>2015-02-25T09:13:20.000Z</published>
+    <updated>2015-02-25T13:13:39.081Z</updated>
+    <content type="html"><![CDATA[<p>photos: </p>
+<ul>
+<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/自行车棚.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/自行车棚.png</a></li>
+<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/图书馆.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/图书馆.png</a></li>
+<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/日本研究中心.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/日本研究中心.png</a></li>
+<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/光华猫.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/光华猫.png</a></li>
+<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/光华楼.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/光华楼.png</a></li>
+<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/草地.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/草地.png</a></li>
+<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/本部住宿区.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/本部住宿区.png</a></li>
+<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/本部篮球场.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/本部篮球场.png</a></li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>photos: </p>
+<ul>
+<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/自行车棚.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.c]]>
+    </summary>
+    
+      <category term="图片" scheme="http://freemso.com/tags/%E5%9B%BE%E7%89%87/"/>
+    
+      <category term="娱乐" scheme="http://freemso.com/categories/%E5%A8%B1%E4%B9%90/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[百度网盘分享]]></title>
