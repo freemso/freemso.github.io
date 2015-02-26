@@ -4,7 +4,7 @@
   <subtitle><![CDATA[搭建中。。。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://freemso.com/"/>
-  <updated>2015-02-25T13:15:08.921Z</updated>
+  <updated>2015-02-26T13:55:31.100Z</updated>
   <id>http://freemso.com/</id>
   
   <author>
@@ -15,27 +15,14 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[test_photo]]></title>
-    <link href="http://freemso.com/2015/02/25/test-photo/"/>
-    <id>http://freemso.com/2015/02/25/test-photo/</id>
-    <published>2015-02-25T09:13:20.000Z</published>
-    <updated>2015-02-25T13:13:39.081Z</updated>
-    <content type="html"><![CDATA[<p>photos: </p>
-<ul>
-<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/自行车棚.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/自行车棚.png</a></li>
-<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/图书馆.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/图书馆.png</a></li>
-<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/日本研究中心.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/日本研究中心.png</a></li>
-<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/光华猫.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/光华猫.png</a></li>
-<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/光华楼.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/光华楼.png</a></li>
-<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/草地.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/草地.png</a></li>
-<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/本部住宿区.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/本部住宿区.png</a></li>
-<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/本部篮球场.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.clouddn.com/本部篮球场.png</a></li>
-</ul>
-]]></content>
+    <title><![CDATA[复旦美景]]></title>
+    <link href="http://freemso.com/2015/02/26/%E5%A4%8D%E6%97%A6%E7%BE%8E%E6%99%AF/"/>
+    <id>http://freemso.com/2015/02/26/复旦美景/</id>
+    <published>2015-02-26T13:52:28.000Z</published>
+    <updated>2015-02-26T13:54:08.572Z</updated>
+    <content type="html"><![CDATA[]]></content>
     <summary type="html">
-    <![CDATA[<p>photos: </p>
-<ul>
-<li><a href="http://7vzrxi.com1.z0.glb.clouddn.com/自行车棚.png" target="_blank" rel="external">http://7vzrxi.com1.z0.glb.c]]>
+    <![CDATA[]]>
     </summary>
     
       <category term="图片" scheme="http://freemso.com/tags/%E5%9B%BE%E7%89%87/"/>
@@ -49,13 +36,14 @@
     <link href="http://freemso.com/2015/02/25/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%88%86%E4%BA%AB/"/>
     <id>http://freemso.com/2015/02/25/百度网盘分享/</id>
     <published>2015-02-25T07:37:27.000Z</published>
-    <updated>2015-02-25T08:51:33.138Z</updated>
+    <updated>2015-02-26T13:46:18.601Z</updated>
     <content type="html"><![CDATA[<p><strong>网盘分享</strong></p>
 <blockquote>
 <p>用来测试链接功能</p>
 </blockquote>
 <p><em>以下内容转自QQ空间，本博客无意侵犯网盘用户版权，如有冒犯，来打我呀~</em></p>
 <hr>
+<a id="more"></a>
 <p>首先附上<a href="http://pan.baidu.com/s/1o60u7Lg&quot;freemso的分享主页&quot;" target="_blank" rel="external">我的网盘分享主页</a></p>
 <ul>
 <li>变形金刚系列1-4<a href="http://pan.baidu.com/s/1kTxGrIZ" target="_blank" rel="external">http://pan.baidu.com/s/1kTxGrIZ</a>密码：ot2h</li>
@@ -251,7 +239,8 @@
 </blockquote>
 <p><em>以下内容转自QQ空间，本博客无意侵犯网盘用户版权，如有冒犯，来打我呀~</em></p>
 <hr>
-<p>首先附上<a h]]>
+]]>
+    
     </summary>
     
       <category term="电影" scheme="http://freemso.com/tags/%E7%94%B5%E5%BD%B1/"/>
