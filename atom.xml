@@ -4,7 +4,7 @@
   <subtitle><![CDATA[搭建中。。。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://freemso.com/"/>
-  <updated>2015-03-08T14:48:55.330Z</updated>
+  <updated>2015-03-08T14:51:42.891Z</updated>
   <id>http://freemso.com/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://freemso.com/2015/03/08/%E6%96%B0%E5%AD%A6%E6%9C%9F%EF%BC%8C%E5%A5%BD%E5%A5%BD%E5%B9%B2%EF%BC%81/"/>
     <id>http://freemso.com/2015/03/08/新学期，好好干！/</id>
     <published>2015-03-08T14:02:57.000Z</published>
-    <updated>2015-03-08T14:48:10.343Z</updated>
+    <updated>2015-03-08T14:51:21.823Z</updated>
     <content type="html"><![CDATA[<p>明天就是新学期开学的第一天，考虑到上学期由于没有一个良好的学习、作息习惯而生活得很不理想，成绩也不令人满意，所以我决定这个学期要做出一些变革。<br><a id="more"></a><br>要制定一个合理的<strong>作息时间计划</strong>：</p>
 <blockquote>
 <p>6:30 - wake up<br>6:30~6:50 - wash,&amp;drink 500ml water<br>6:50~7:15 - run&amp;exercise<br>7:15~7:30 - eat breakfast<br>7:30~8:00 - prepare to class<br>8:00~11:35 - class|study<br>11:40~12:00 - have lunch<br>12:00~13:00 - nap<br>13:00~13:30 - prepare to class<br>13:30~5:10 - class|study<br>5:20~6:00 - dinner&amp;rest<br>6:00~6:30 - prepare to class|library<br>6:30~8:00 - class|study<br>8:00~9:30 - study<br>9:30~10:00 - back to home&amp;chat with roommate<br>10:00~11:15 - wash clothes|shower|read<br>11:15~11:30 - prepare to sleep</p>
@@ -60,6 +60,10 @@
     <![CDATA[<p>明天就是新学期开学的第一天，考虑到上学期由于没有一个良好的学习、作息习惯而生活得很不理想，成绩也不令人满意，所以我决定这个学期要做出一些变革。<br>]]>
     
     </summary>
+    
+      <category term="计划" scheme="http://freemso.com/tags/%E8%AE%A1%E5%88%92/"/>
+    
+      <category term="日记" scheme="http://freemso.com/categories/%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
