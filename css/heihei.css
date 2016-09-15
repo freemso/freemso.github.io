@@ -1,0 +1,284 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    /*vertical-align:baseline;*/
+    background:transparent;
+}
+
+body {
+    margin:0;
+    padding:0;
+    font:12px/15px "Helvetica Neue",Arial, Helvetica, sans-serif;
+    color: #555;
+    background:#f5f5f5 url(bg.jpg);
+}
+
+a {color:#666;}
+
+#content {
+    /*width:65%; */
+    max-width:1080px;
+    margin:6% auto 3%;}
+
+#title {
+    font-size: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.nav-a {
+    text-decoration: none;
+}
+
+a {
+    display: block;
+}
+
+.dis {
+    overflow:hidden;
+    border:1px solid #d3d3d3;
+    background:#fefefe;
+    width:70%;
+    margin:5% auto 0;
+    -moz-border-radius:5px; /* FF1+ */
+    -webkit-border-radius:5px; /* Saf3-4 */
+    border-radius:5px;
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    line-height: 30px;
+}
+/*
+Pretty Table Styling
+CSS Tricks also has a nice writeup: http://css-tricks.com/feature-table-design/
+*/
+
+table {
+    overflow:hidden;
+    border:1px solid #d3d3d3;
+    background:#fefefe;
+    width:70%;
+    margin:5% auto 0;
+    -moz-border-radius:5px; /* FF1+ */
+    -webkit-border-radius:5px; /* Saf3-4 */
+    border-radius:5px;
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+
+th, td {padding:18px 28px 18px; text-align:center; }
+
+th {padding-top:22px; text-shadow: 1px 1px 1px #fff; background:#e8eaeb;}
+
+td {border-top:1px solid #e0e0e0; border-right:1px solid #e0e0e0;}
+
+tr.odd-row td {background:#f6f6f6;}
+
+/*td.first, th.first {text-align:left}*/
+
+td.last {border-right:none;}
+
+/*
+Background gradients are completely unnecessary but a neat effect.
+*/
+
+td {
+    background: -moz-linear-gradient(100% 25% 90deg, #fefefe, #f9f9f9);
+    background: -webkit-gradient(linear, 0% 0%, 0% 25%, from(#f9f9f9), to(#fefefe));
+}
+
+tr.odd-row td {
+    background: -moz-linear-gradient(100% 25% 90deg, #f6f6f6, #f1f1f1);
+    background: -webkit-gradient(linear, 0% 0%, 0% 25%, from(#f1f1f1), to(#f6f6f6));
+}
+
+th {
+    background: -moz-linear-gradient(100% 20% 90deg, #e8eaeb, #ededed);
+    background: -webkit-gradient(linear, 0% 0%, 0% 20%, from(#ededed), to(#e8eaeb));
+}
+
+/*
+I know this is annoying, but we need additional styling so webkit will recognize rounded corners on background elements.
+Nice write up of this issue: http://www.onenaught.com/posts/266/css-inner-elements-breaking-border-radius
+
+And, since we've applied the background colors to td/th element because of IE, Gecko browsers also need it.
+*/
+
+tr:first-child th.first {
+    -moz-border-radius-topleft:5px;
+    -webkit-border-top-left-radius:5px; /* Saf3-4 */
+}
+
+tr:first-child th.last {
+    -moz-border-radius-topright:5px;
+    -webkit-border-top-right-radius:5px; /* Saf3-4 */
+}
+
+tr:last-child td.first {
+    -moz-border-radius-bottomleft:5px;
+    -webkit-border-bottom-left-radius:5px; /* Saf3-4 */
+}
+
+tr:last-child td.last {
+    -moz-border-radius-bottomright:5px;
+    -webkit-border-bottom-right-radius:5px; /* Saf3-4 */
+}
+
+#login-form {
+    width: 400px;
+    margin: 5% auto 0;
+    -moz-border-radius-bottomright:5px;
+    -webkit-border-bottom-right-radius:5px; /* Saf3-4 */
+}
+
+#login-form input {
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    border:1px solid #dce1e6;
+}
+
+#login-form button {
+    position: relative;
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+    outline: none;
+    line-height: 38px;
+    text-align: center;
+    font-weight: bold;
+    color: #8c96a0;
+    text-shadow:1px 1px 1px #fff;
+    border:1px solid #dce1e6;
+    box-shadow: 0 1px 2px #fff inset,0 -1px 0 #a8abae inset;
+    background: -webkit-linear-gradient(top,#f2f3f7,#e4e8ec);
+    background: -moz-linear-gradient(top,#f2f3f7,#e4e8ec);
+    background: linear-gradient(top,#f2f3f7,#e4e8ec);
+}
+
+#login-form button:active{
+    top:1px;
+    background: -webkit-linear-gradient(top,#e4e8ec,#e4e8ec);
+    background: -moz-linear-gradient(top,#e4e8ec,#e4e8ec);
+    background: linear-gradient(top,#e4e8ec,#e4e8ec);
+}
+.btn {
+    width: 200px;
+    border-radius: 5px;
+    font-weight: bold;
+    position: relative;
+    outline: none;
+    line-height: 40px;
+    text-align: center;
+    color: #8c96a0;
+    text-shadow:1px 1px 1px #fff;
+    border:1px solid #dce1e6;
+    box-shadow: 0 1px 2px #fff inset,0 -1px 0 #a8abae inset;
+    background: -webkit-linear-gradient(top,#f2f3f7,#e4e8ec);
+    background: -moz-linear-gradient(top,#f2f3f7,#e4e8ec);
+    background: linear-gradient(top,#f2f3f7,#e4e8ec);
+}
+
+.btn:active {
+    top:1px;
+    background: -webkit-linear-gradient(top,#e4e8ec,#e4e8ec);
+    background: -moz-linear-gradient(top,#e4e8ec,#e4e8ec);
+    background: linear-gradient(top,#e4e8ec,#e4e8ec);
+}
+
+.score-item {
+    margin-top: 20px;
+}
+
+.radio-item {
+
+    display: table-cell;
+}
+
+.radio-score {
+    margin: 2px;
+    background: none!important;
+    color: #666!important;
+}
+
+input.radiocheck+label.full:after, input.radiocheck+label.full:before {
+    color: #666;
+    background: #fefefe;
+}
+
+tr.odd-row input.radiocheck+label.full:after, tr.odd-row input.radiocheck+label.full:before {
+    color: #666;
+    background: #f6f6f6;
+}
+#score-form {
+    display: none;
+}
+
+
+.hidden-input {
+    display: none!important;
+}
+
+#logout-form {
+    margin: 10% 5% 5% 10%;
+    width: 30%;
+    float: right;
+    display: none;
+}
+
+#btn-change-password {
+    margin: 10%;
+    width: 30%;
+    float: left;
+    display: none;
+}
+
+#btn-div {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#change-password-form {
+    width: 70%;
+    margin: 5% auto 0;
+    -moz-border-radius-bottomright:5px;
+    -webkit-border-bottom-right-radius:5px; /* Saf3-4 */
+    display: none;
+}
+
+#change-password-form input {
+    width: 35%;
+    display: inline-block;
+    float: left;
+    position: relative;
+    margin: 5% 5% 0 20%;
+    padding: 10px;
+    border:1px solid #dce1e6;
+}
+
+#btn-change-password-submit {
+    position: relative;
+    float: left;
+    width: 10%;
+    margin: 5% ;
+    line-height: 30px;
+}
+
+.selected:after {
+    font-family:FontAwesome;
+    content:'\f00c';
+    font-size: 12px;
+    padding: 6px 30px 6px 6px;
+}
