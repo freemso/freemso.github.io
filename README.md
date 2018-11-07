@@ -1,3 +1,5 @@
 # freemso.github.io
 
-personal domain
+Personal website.
+
+Not under active maintaining.
